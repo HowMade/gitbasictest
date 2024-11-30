@@ -1,1 +1,2 @@
-second line: b
+first line:a
+c
